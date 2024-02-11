@@ -1,7 +1,7 @@
 ## NLW Expert 
 Bloco de notas  desenvolvido no evento NLW Expert oferecido pela Rockeseat na trilha de React, o qual permite gravar notas via editor texto ou por gravação de voz
 
-### ⚛´Principais Tecnologias
+### ⚛ Principais Tecnologias
 * ReactJS
 * Typescript
 * ViteJS
